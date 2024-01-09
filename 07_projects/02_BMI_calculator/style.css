@@ -1,0 +1,32 @@
+*{
+    background-color: #212121;
+    color: #fff;
+}
+
+#submit{
+    padding: 15px;
+    margin: 10px;
+    background-color: #fff;
+    color: black;
+    border-radius: 15px;
+    border:3px solid magenta;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.guide{
+    border: 3px solid white;
+    padding-left: 30px;
+    margin: 10px;
+}
+.inputbox{
+    border: 2px solid white;
+}
+#result {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+    border: 2px solid green;
+    padding-left: 10px;
+  }
